@@ -1,0 +1,86 @@
+SEQUENZA AZIONI DA FARE CON COORDINATE, testata
+
+Clic rilevato alle coordinate: X: 1757, Y: 780  settings
+Clic rilevato alle coordinate: X: 1208, Y: 236  logout pino
+Clic rilevato alle coordinate: X: 1395, Y: 722  clicco naffo1
+
+Clic rilevato alle coordinate: X: 391, Y: 535  CASTELLO NAFFO1 click
+
+Clic rilevato alle coordinate: X: 599, Y: 810  info
+Clic rilevato alle coordinate: X: 745, Y: 897  meno
+Clic rilevato alle coordinate: X: 788, Y: 675  rimuovi
+Clic rilevato alle coordinate: X: 1063, Y: 639  rimuovi OK
+Clic rilevato alle coordinate: X: 1596, Y: 125  chiudi castello
+Clic rilevato alle coordinate: X: 640, Y: 682  click vuoto
+
+Clic rilevato alle coordinate: X: 403, Y: 536  CASTELLO NAFFO1 click
+
+Clic rilevato alle coordinate: X: 820, Y: 801  richiedi
+Clic rilevato alle coordinate: X: 1114, Y: 692  Invia
+Clic rilevato alle coordinate: X: 1738, Y: 773  settings //1796, 797 -- new
+Clic rilevato alle coordinate: X: 1208, Y: 236  logoutnafo1
+Clic rilevato alle coordinate: X: 1387, Y: 583  login pino
+Clic rilevato alle coordinate: X: 157, Y: 513  aprochat pino
+Clic rilevato alle coordinate: X: 490, Y: 848  dona pino
+Clic rilevato alle coordinate: X: 837, Y: 395  dona dirigibile pino //739, 376
+Clic rilevato alle coordinate: X: 697, Y: 479  chiudi chat pino
+Clic rilevato alle coordinate: X: 166, Y: 787  addestra button pino
+Clic rilevato alle coordinate: X: 1110, Y: 165  costruisci macchine pino
+Clic rilevato alle coordinate: X: 701, Y: 630  addestra dirigibile pino
+Clic rilevato alle coordinate: X: 1540, Y: 168  chiudi caserma pino
+Clic rilevato alle coordinate: X: 1789, Y: 792  settings pino
+Clic rilevato alle coordinate: X: 1208, Y: 236  logout pino
+Clic rilevato alle coordinate: X: 1438, Y: 822  clicco naffo2
+
+Clic rilevato alle coordinate: X: 366, Y: 550  CASTELLO NAFFO2 click
+
+Clic rilevato alle coordinate: X: 589, Y: 812  info
+Clic rilevato alle coordinate: X: 743, Y: 897  meno
+Clic rilevato alle coordinate: X: 787, Y: 679  rimuovi
+Clic rilevato alle coordinate: X: 1076, Y: 640  rimuovi OK
+Clic rilevato alle coordinate: X: 1611, Y: 133  chiudi castello
+Clic rilevato alle coordinate: X: 638, Y: 686  click vuoto
+
+Clic rilevato alle coordinate: X: 363, Y: 546  CASTELLO NAFFO2 click
+
+Clic rilevato alle coordinate: X: 807, Y: 808  richiedi
+Clic rilevato alle coordinate: X: 1099, Y: 680  Invia
+Clic rilevato alle coordinate: X: 1748, Y: 790  settings
+Clic rilevato alle coordinate: X: 1208, Y: 236  logoutnafo2
+Clic rilevato alle coordinate: X: 1461, Y: 570  login pino
+Clic rilevato alle coordinate: X: 172, Y: 478  aprochat pino
+Clic rilevato alle coordinate: X: 483, Y: 842  dona pino
+Clic rilevato alle coordinate: X: 816, Y: 396  dona dirigibile pino
+Clic rilevato alle coordinate: X: 700, Y: 481  chiudi chat pino
+Clic rilevato alle coordinate: X: 159, Y: 771  addestra button pino
+Clic rilevato alle coordinate: X: 1145, Y: 180  costruisci macchine pino
+Clic rilevato alle coordinate: X: 698, Y: 653  addestra dirigibile pino
+Clic rilevato alle coordinate: X: 1550, Y: 165  chiudi caserma pino
+Clic rilevato alle coordinate: X: 1758, Y: 785  settings pino
+Clic rilevato alle coordinate: X: 1208, Y: 236  logout pino
+Clic rilevato alle coordinate: X: 1478, Y: 945  clicco naffo3
+
+Clic rilevato alle coordinate: X: 381, Y: 533  CASTELLO NAFFO3 click
+
+Clic rilevato alle coordinate: X: 600, Y: 811  info
+Clic rilevato alle coordinate: X: 742, Y: 905  meno
+Clic rilevato alle coordinate: X: 777, Y: 694  rimuovi
+Clic rilevato alle coordinate: X: 1069, Y: 640  rimuovi OK
+Clic rilevato alle coordinate: X: 1614, Y: 130  chiudi castello
+Clic rilevato alle coordinate: X: 640, Y: 705  click vuoto
+
+Clic rilevato alle coordinate: X: 387, Y: 518  CASTELLO NAFFO3 click
+
+Clic rilevato alle coordinate: X: 803, Y: 803  richiedi
+Clic rilevato alle coordinate: X: 1088, Y: 696  Invia
+Clic rilevato alle coordinate: X: 1742, Y: 778  settings
+Clic rilevato alle coordinate: X: 1208, Y: 236  logoutnafo3
+Clic rilevato alle coordinate: X: 1475, Y: 609  login pino
+Clic rilevato alle coordinate: X: 152, Y: 486  aprochat pino
+Clic rilevato alle coordinate: X: 497, Y: 860  dona pino
+Clic rilevato alle coordinate: X: 821, Y: 411  dona dirigibile pino
+Clic rilevato alle coordinate: X: 696, Y: 488  chiudi chat pino
+Clic rilevato alle coordinate: X: 156, Y: 775  addestra button pino
+Clic rilevato alle coordinate: X: 1116, Y: 173  costruisci macchine pino
+Clic rilevato alle coordinate: X: 721, Y: 674  addestra dirigibile pino
+Clic rilevato alle coordinate: X: 1550, Y: 161  chiudi caserma pino
